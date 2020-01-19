@@ -5,6 +5,7 @@
   "homepage": "https://github.com/taylortom/adapt-authoring-testing",
   "main": "index.js",
   "dependencies": {
-    "jszip": "3.2.2"
+    "jszip": "3.2.2",
+    "klaw": "3.0.0"
   }
 }
