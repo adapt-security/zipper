@@ -1,8 +1,8 @@
 {
-  "name": "adapt-authoring-zipper",
+  "name": "zipper",
   "version": "0.0.1",
-  "description": "Adapt authoring module for zipping files",
-  "homepage": "https://github.com/taylortom/adapt-authoring-testing",
+  "description": "Module for zipping/unzipping files",
+  "homepage": "https://github.com/taylortom/zipper",
   "main": "index.js",
   "dependencies": {
     "fs-extra": "8.1.0",
