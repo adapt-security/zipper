@@ -3,5 +3,8 @@
   "version": "0.0.1",
   "description": "Adapt authoring module for zipping files",
   "homepage": "https://github.com/taylortom/adapt-authoring-testing",
-  "main": "index.js"
+  "main": "index.js",
+  "dependencies": {
+    "jszip": "3.2.2"
+  }
 }
