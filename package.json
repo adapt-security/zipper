@@ -1,0 +1,7 @@
+{
+  "name": "adapt-authoring-zipper",
+  "version": "0.0.1",
+  "description": "Adapt authoring module for zipping files",
+  "homepage": "https://github.com/taylortom/adapt-authoring-testing",
+  "main": "index.js"
+}
