@@ -9,5 +9,9 @@
     "fs-extra": "8.1.0",
     "jszip": "^3.7.1",
     "klaw": "^3.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "standard": "^17.0.0"
   }
 }
