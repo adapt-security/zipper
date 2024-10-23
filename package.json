@@ -11,7 +11,7 @@
     "klaw": "^4.1.0"
   },
   "devDependencies": {
-    "eslint": "^9.11.1",
+    "eslint": "^9.13.0",
     "standard": "^17.1.2"
   }
 }
