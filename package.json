@@ -6,7 +6,7 @@
   "type": "module",
   "main": "./lib/zipper.js",
   "dependencies": {
-    "fs-extra": "11.3.0",
+    "fs-extra": "11.3.1",
     "jszip": "^3.10.1",
     "klaw": "^4.1.0"
   },
