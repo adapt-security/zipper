@@ -1,12 +1,18 @@
 {
-  "name": "zipper",
-  "version": "1.0.0",
+  "name": "@adapt-security/zipper",
+  "version": "1.2.0",
   "description": "Module for zipping/unzipping files",
-  "homepage": "https://github.com/taylortom/zipper",
+  "homepage": "https://github.com/adapt-security/zipper",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adapt-security/zipper.git"
+  },
   "type": "module",
   "main": "./lib/zipper.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
-    "fs-extra": "11.3.6",
     "jszip": "^3.10.1",
     "klaw": "^4.1.0"
   },
